@@ -29,16 +29,23 @@ https://archive.org/details/BernaysPropaganda
 
 ## Propaganda and Political Leadership
 
-## Women’s Activities and Propaganda
+## Chapter 7: Women’s Activities and Propaganda
 
-## Propaganda for Education
+## Chapter 8: Propaganda for Education
 
-## Propaganda in Social Service
+> In the ethical sense, propaganda bears the same relation to education as to business or politics. It may be abused. It may be used to overadvertise an institution and to create in the public mind artificial values. There can be no absolute guarantee against its misuse.
 
-## Art and Science
+## Chapter 9: Propaganda in Social Service
 
-## The Mechanics of Propaganda
+> Social progress is simply the progressive education and enlightenment of the public mind in regard to its immediate and distant social problems.
 
+## Chapter 10: Art and Science
+
+> Propaganda assists in marketing new inventions. Propaganda, by repeatedly interpreting new scien- tific ideas and inventions to the public, has made the public more receptive. Propaganda is accustoming the public to change and progress.
+
+## Chapter 11: The Mechanics of Propaganda
+
+> Propaganda will never die out. Intelligent men must realize that propaganda is the modern instru- ment by which they can fight for productive ends and help to bring order out of chaos.
 
 ## The Text with Notes
 

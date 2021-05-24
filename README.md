@@ -3,11 +3,6 @@ by Edward Bernays
 
 https://archive.org/details/BernaysPropaganda
 
-# Gavin's Opinions
-- The invisible governors do not provide opportunities for more qualified people to take their place even though a proper hierarchy should function this way.
-- The invisible government should not have been codified into laws which allow inheritance of power ignorant of merit.
-- There are literally millions of people who can make up their own minds and should be given the opportunity to find their rightful place in the invisible government.
-
 # Gavin’s Highlights
 
 ## Chapter 1: Organizing Chaos
@@ -15,8 +10,6 @@ https://archive.org/details/BernaysPropaganda
 > Some of the phenomena of this process are criticized—the manipulation of news, the inflation of personality, and the general ballyhoo by which politicians and commercial products and social ideas are brought to the consciousness of the masses. The instruments by which public opinion is organized and focused may be misused. But such organization and focusing are necessary to orderly life.
 
 > This invisible, intertwining structure of groupings and associations is the mechanism by which democracy has organized its group mind and simplified its mass thinking. To deplore the existence of such a mechanism is to ask for a society such as never was and never will be. To admit that it exists, but expect that it shall not be used, is unreasonable.
-
-> It is the purpose of this book to explain the structure of the mechanism which controls the public mind, and to tell how it is manipulated by the special pleader who seeks to create public acceptance for a particular idea or commodity. It will attempt at the same time to find the due place in the modern democratic scheme for this new propaganda and to suggest its gradually evolving code of ethics and practice.
 
 > It is the purpose of this book to explain the structure of the mechanism which controls the public mind, and to tell how it is manipulated by the special pleader who seeks to create public acceptance for a particular idea or commodity. It will attempt at the same time to find the due place in the modern democratic scheme for this new propaganda and to suggest its gradually evolving code of ethics and practice.
 
@@ -126,3 +119,9 @@ There are literally millions of people who can make up their own minds and shoul
 ### Art and Science
 
 ### The Mechanics of Propaganda
+
+
+# Gavin's Opinions
+- The invisible governors do not provide opportunities for more qualified people to take their place even though a proper hierarchy should function this way.
+- The invisible government should not have been codified into laws which allow inheritance of power ignorant of merit.
+- There are literally millions of people who can make up their own minds and should be given the opportunity to find their rightful place in the invisible government.

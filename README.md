@@ -22,14 +22,24 @@ https://archive.org/details/BernaysPropaganda
 > He does not accept a client whose interests conflict with those of another client. He does not accept a client whose case he believes to be hopeless or whose product he believes to be unmarketable.
 
 > He should be candid in his dealings. It must be repeated that his business is not to fool or hoodwink the public. If he were to get such a reputation, his usefulness in his profession would be at an end. When he is sending out propaganda material, it is clearly labeled as to source. The editor knows from whom it comes and what its purpose is, and accepts or rejects it on its merits as news.
-> 
-## The Psychology of Public Relations
 
-## Business and the Public
+## Chapter4: The Psychology of Public Relations
 
-## Propaganda and Political Leadership
+>The ideas of the new propaganda are predicated on sound psychology based on enlightened self- interest.
+
+## Chapter 5: Business and the Public
+
+> To-day, a small industry is swamped unless it can find appropriate and relatively inexpensive means of making known the special virtues of its product, while larger industries have sought to overcome the difficulty by cooperative advertising, in which associations of industries compete with other associations.
+
+## Chapter 6: Propaganda and Political Leadership
+
+> Such an official would be neither a propagandist nor a press agent, in the ordinary understanding of those terms. He would be, rather, a trained technician who would be helpful in analyzing public thought and public trends, in order to keep the government informed about the public, and the people informed about the government. America’s relations with South America and with Europe would be greatly improved under such circumstances. Ours must be a leadership democracy administered by the intelligent minority who know how to regiment and guide the masses.
 
 ## Chapter 7: Women’s Activities and Propaganda
+
+> A literary club may step out of its charmed circle of lectures and literary lions and take a definite part in the educational life of the community. It can sponsor, for instance, a competition in the public schools for the best essay on the history of the city, or on the life of its most famous son.
+
+> Over and above the particular object for which the woman’s club may have been constituted, it commonly stands ready to initiate or help any movement which has for its object a distinct public good in the community. More important, it constitutes an organized channel through which women can make themselves felt as a definite part of public opinion.
 
 ## Chapter 8: Propaganda for Education
 
@@ -260,21 +270,21 @@ The new propaganda, having regard to the constitution of society as a whole, not
 
 > He should be candid in his dealings. It must be repeated that his business is not to fool or hoodwink the public. If he were to get such a reputation, his usefulness in his profession would be at an end. When he is sending out propaganda material, it is clearly labeled as to source. The editor knows from whom it comes and what its purpose is, and accepts or rejects it on its merits as news.
 
-### The Psychology of Public Relations
+### Chapter 4: The Psychology of Public Relations
 
-### Business and the Public
+### Chapter 5: Business and the Public
 
-### Propaganda and Political Leadership
+### Chapter 6: Propaganda and Political Leadership
 
-### Women’s Activities and Propaganda
+### Chapter 7: Women’s Activities and Propaganda
 
-### Propaganda for Education
+### Chapter 8: Propaganda for Education
 
-### Propaganda in Social Service
+### Chapter 9: Propaganda in Social Service
 
-### Art and Science
+### Chapter 10: Art and Science
 
-### The Mechanics of Propaganda
+### Chapter 11: The Mechanics of Propaganda
 
 
 # Gavin's Opinions
